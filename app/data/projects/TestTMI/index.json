@@ -1,0 +1,26 @@
+{
+    "id": "TestTMI",
+    "name": "TestTMI",
+    "models": [
+        {
+            "id": "TestTMI",
+            "name": "TestTMI"
+        }
+    ],
+    "viewerConfigs": {
+        "backgroundColor": [
+            0.9,
+            0.9,
+            1.0
+        ]
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "structure",
+            "architectural"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "models"
+    }
+}
