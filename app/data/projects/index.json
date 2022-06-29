@@ -49,6 +49,10 @@
       "name": "Holter Tower"
     },
     {
+      "id": "TestTMI",
+      "name": "TestTMI"
+    },
+    {
       "id": "RevitSamples",
       "name": "Revit Samples"
     }
