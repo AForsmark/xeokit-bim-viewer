@@ -3,7 +3,7 @@
     "name": "TestTMI",
     "models": [
         {
-            "id": "TestTMI",
+            "id": "design",
             "name": "TestTMI"
         }
     ],
@@ -20,6 +20,6 @@
         ]
     },
     "viewerState": {
-        "tabOpen": "models"
+        "tabOpen": "classes"
     }
 }
